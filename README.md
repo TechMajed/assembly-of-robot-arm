@@ -2,7 +2,7 @@
 ## Assembling robot arm:
 
 **1st step:** _base_
-![image](https://user-images.githubusercontent.com/85939115/122606360-7eb3c000-d081-11eb-9b1a-4b749468a5cd.png)
+
 **2nd step:** attaching the _waist_ with the _base_
 
 **3rd step:** attaching the _arm01_ with the _waist_
