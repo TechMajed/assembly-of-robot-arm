@@ -1,5 +1,5 @@
 ### Task #1
-## Assembling robot arm:
+## Assembling robot arm: the objective of this task is to assmble the parts of the robot arm.
 
 **1st step:** _base_
 
