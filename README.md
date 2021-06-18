@@ -1,4 +1,12 @@
-Task#1_assembly-of-robot-arm
+### Task #1
+## Assembling robot arm:
+
+**1st step:** _base_
+![image](https://user-images.githubusercontent.com/85939115/122606360-7eb3c000-d081-11eb-9b1a-4b749468a5cd.png)
+**2nd step:** attaching the _waist_ with the _base_
+
+**3rd step:** attaching the _arm01_ with the _waist_
+
 ![image](https://user-images.githubusercontent.com/85939115/122606360-7eb3c000-d081-11eb-9b1a-4b749468a5cd.png)
 ![image](https://user-images.githubusercontent.com/85939115/122606475-a9057d80-d081-11eb-9dbc-316656e1e667.png)
 ![image](https://user-images.githubusercontent.com/85939115/122606527-bcb0e400-d081-11eb-8be6-c78e8de2864e.png)
