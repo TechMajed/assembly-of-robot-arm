@@ -7,3 +7,4 @@ Task#1_assembly-of-robot-arm
 ![image](https://user-images.githubusercontent.com/85939115/122606645-f5e95400-d081-11eb-9182-ad3d1c7b3b04.png)
 ![image](https://user-images.githubusercontent.com/85939115/122606696-06013380-d082-11eb-91d9-3b2ebc7cda52.png)
 ![image](https://user-images.githubusercontent.com/85939115/122606730-11ecf580-d082-11eb-9e67-d1c6eeaf54d2.png)
+![image](https://user-images.githubusercontent.com/85939115/122607787-c9ced280-d083-11eb-8826-f544e2568368.png)
